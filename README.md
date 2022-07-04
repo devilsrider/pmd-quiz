@@ -2,7 +2,7 @@
 
 A website where you can take Pokémon Mystery Dungeon personality quizzes. Questions come from Red/Blue Rescue Team, Explorers of Time/Darkness, and Explorers of Sky.
 
-Currently not hosted anywhere.
+rehosted at https://devilsrider.github.io/pmd-quiz/
 
 # At a Glance
 ### Complete the light-hearted personality quiz from Pokémon Mystery Dungeon!
